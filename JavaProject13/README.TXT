@@ -1,6 +1,6 @@
 PROJECT TITLE: JavaProject2
 DATE: 02/15/2015
-AUTHORS: Matt Warman, Unnamed Programmer
+AUTHORS: Matt Warman
 
 
 CHANGELOG:
