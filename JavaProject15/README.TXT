@@ -1,7 +1,7 @@
 PROJECT TITLE: JavaProject4
 VERSION: 1.2
 DATE: 03/12/2015
-AUTHORS: Matt Warman (Except Loan.class)
+AUTHORS: Matt Warman
 
 CHANGELOG
 
